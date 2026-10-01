@@ -1,0 +1,48 @@
+{
+  "name": "astronauta-martech",
+  "owner": {
+    "name": "Astronauta Martech",
+    "email": "contato@astronauta.digital"
+  },
+  "metadata": {
+    "description": "Skills da Astronauta Martech para agentes de IA trabalharem em ferramentas de marketing.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "rd-station-marketing-automacao",
+      "description": "Skills para desenhar, montar, conferir, testar e diagnosticar fluxos de automação do RD Station Marketing, e para treinar quem opera.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Astronauta Martech",
+        "email": "contato@astronauta.digital"
+      },
+      "homepage": "https://astronauta.digital/materiais/skills/rd-station-marketing-automacao",
+      "repository": "https://github.com/astronauta-martech/rd-station-marketing-automacao-skills",
+      "license": "SEE LICENSE IN LICENSE",
+      "keywords": [
+        "rd-station",
+        "rd-station-marketing",
+        "automacao",
+        "marketing-automation",
+        "crm"
+      ],
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/rd-automacao-catalogo",
+        "./skills/rd-automacao-briefing",
+        "./skills/rd-automacao-regua-de-evento",
+        "./skills/rd-automacao-recuperacao-e-nutricao",
+        "./skills/rd-automacao-passagem-para-crm",
+        "./skills/rd-automacao-raio-x-da-conta",
+        "./skills/rd-automacao-diagnostico-de-fluxo",
+        "./skills/rd-automacao-orquestrar-fluxos",
+        "./skills/rd-automacao-treinamento",
+        "./skills/rd-automacao-montar",
+        "./skills/rd-automacao-conferir",
+        "./skills/rd-automacao-testar-com-lead"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "rd-automacao-catalogo": [
+    "catalogo-acoes.md",
+    "estrutura-do-fluxo.md"
+  ],
+  "rd-automacao-briefing": [
+    "formato-especificacao.md",
+    "catalogo-acoes.md",
+    "estrutura-do-fluxo.md",
+    "disciplina-de-evidencia.md",
+    "conector-rd-marketing.md"
+  ],
+  "rd-automacao-regua-de-evento": [
+    "modelo-regua-de-evento.md",
+    "formato-especificacao.md",
+    "catalogo-acoes.md",
+    "estrutura-do-fluxo.md",
+    "disciplina-de-evidencia.md",
+    "conector-rd-marketing.md"
+  ],
+  "rd-automacao-recuperacao-e-nutricao": [
+    "modelo-recuperacao-e-nutricao.md",
+    "formato-especificacao.md",
+    "catalogo-acoes.md",
+    "estrutura-do-fluxo.md",
+    "disciplina-de-evidencia.md",
+    "conector-rd-marketing.md",
+    "codigos-de-acao.md"
+  ],
+  "rd-automacao-passagem-para-crm": [
+    "modelo-passagem-para-crm.md",
+    "formato-especificacao.md",
+    "catalogo-acoes.md",
+    "estrutura-do-fluxo.md",
+    "disciplina-de-evidencia.md",
+    "conector-rd-marketing.md",
+    "codigos-de-acao.md"
+  ],
+  "rd-automacao-raio-x-da-conta": [
+    "conector-rd-marketing.md",
+    "codigos-de-acao.md",
+    "estrutura-do-fluxo.md",
+    "disciplina-de-evidencia.md"
+  ],
+  "rd-automacao-diagnostico-de-fluxo": [
+    "conector-rd-marketing.md",
+    "codigos-de-acao.md",
+    "estrutura-do-fluxo.md",
+    "catalogo-acoes.md",
+    "disciplina-de-evidencia.md"
+  ],
+  "rd-automacao-orquestrar-fluxos": [
+    "conector-rd-marketing.md",
+    "codigos-de-acao.md",
+    "estrutura-do-fluxo.md",
+    "catalogo-acoes.md",
+    "disciplina-de-evidencia.md"
+  ],
+  "rd-automacao-treinamento": [
+    "catalogo-acoes.md",
+    "estrutura-do-fluxo.md",
+    "formato-especificacao.md",
+    "modelo-passagem-para-crm.md",
+    "modelo-recuperacao-e-nutricao.md",
+    "modelo-regua-de-evento.md"
+  ],
+  "rd-automacao-montar": [
+    "formato-especificacao.md",
+    "estrutura-do-fluxo.md",
+    "catalogo-acoes.md"
+  ],
+  "rd-automacao-conferir": [
+    "estrutura-do-fluxo.md",
+    "formato-especificacao.md",
+    "catalogo-acoes.md",
+    "conector-rd-marketing.md",
+    "codigos-de-acao.md",
+    "disciplina-de-evidencia.md"
+  ],
+  "rd-automacao-testar-com-lead": [
+    "conector-rd-marketing.md",
+    "codigos-de-acao.md",
+    "catalogo-acoes.md",
+    "disciplina-de-evidencia.md"
+  ]
+}
